@@ -1,0 +1,20 @@
+Nome ristorante: MARISCO
+
+Tipo di menù: PESCE
+
+-Antipasti:
+
+-Primi piatti:
+
+-Secondi piatti:
+
+-Contorni:
+
+-Dolci:
+
+-Bevande:
+Acqua 
+Succo di frutta
+Coca cola
+Birra
+Vino
