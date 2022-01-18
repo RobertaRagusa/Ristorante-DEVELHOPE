@@ -1,0 +1,25 @@
+Nome ristorante: MARISCO
+
+Tipo di menù: PESCE
+
+-Antipasti:
+
+-Primi piatti:
+Tagliolini all'astice
+Gnocchi cozze e vongole
+Risotto alla crema di scampi
+Spaghetti alle vongole
+Risotto alla pescatora
+
+-Secondi piatti:
+
+-Contorni:
+
+-Dolci:
+
+-Bevande:
+Acqua 
+Succo di frutta
+Coca cola
+Birra
+Vino
