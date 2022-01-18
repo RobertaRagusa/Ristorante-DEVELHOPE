@@ -11,6 +11,11 @@ Tipo di menù: PESCE
 -Contorni:
 
 -Dolci:
+sorbetto al limone
+cheesecake al caffè
+torta al cioccolato
+tiramisù
+budino
 
 -Bevande:
 Acqua 
